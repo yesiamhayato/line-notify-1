@@ -1,2 +1,2 @@
-# line-notify-1
+# LINE Notify を使ってゴミ出しを忘れない
  
